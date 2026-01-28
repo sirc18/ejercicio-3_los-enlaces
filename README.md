@@ -1,4 +1,4 @@
-== Texto inicial ==
+# Texto inicial #
 
 Lorem ipsun. etc
 
