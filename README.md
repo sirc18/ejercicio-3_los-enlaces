@@ -1,7 +1,7 @@
 # Texto inicial #
 
-Lorem ipsun. etc
+_Lorem ipsun. etc_
 
-*Línea 1
-*Línea 2
-*Línea 3
+**Línea 1**
+**Línea 2**
+**Línea 3**
